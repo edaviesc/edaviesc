@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Emlyn
 
-I’m an **Architectural Designer, CAD/BIM Professional, and Web Developer** with a background in **architectural design, 3D visualization, and digital experiences**. I specialize in translating complex ideas into clear, functional, and visually compelling solutions—across the **built environment, digital platforms, and interactive experiences**.
+I’m an **Architectural Designer and CAD/BIM Professional** with a background in **architectural design, 3D visualization, and digital experiences**. Outside of my professional work, I’m a **hobbyist web developer** who enjoys exploring HTML, CSS, JavaScript, Python, and WordPress to create functional and visually engaging digital experiences.
+
 
 ---
 
